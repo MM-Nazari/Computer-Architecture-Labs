@@ -1,0 +1,4 @@
+vhdl isim_temp "dff.vhd"
+vhdl isim_temp "decoder2to4.vhd"
+vhdl isim_temp "register_gate.vhd"
+vhdl isim_temp "reg_gate_tb.vhd"

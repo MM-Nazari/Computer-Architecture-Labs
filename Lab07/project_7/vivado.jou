@@ -1,0 +1,27 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri May  6 18:26:52 2022
+# Process ID: 11704
+# Current directory: C:/Users/armin/Documents/University/Vivado/project_7
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent13192 C:\Users\armin\Documents\University\Vivado\project_7\project_7.xpr
+# Log file: C:/Users/armin/Documents/University/Vivado/project_7/vivado.log
+# Journal file: C:/Users/armin/Documents/University/Vivado/project_7\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/armin/Documents/University/Vivado/project_7/project_7.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source ram_tb.tcl
+run all
+run all
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+run all
+close_sim
+launch_simulation
+source ram_tb.tcl
+close_sim

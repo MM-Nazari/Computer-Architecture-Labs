@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/armin/Documents/University/Vivado/project_5/project_5.srcs/sim_1/new/TFF.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TFF'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/armin/Documents/University/Vivado/project_5/project_5.srcs/sim_1/new/ripple_counter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ripple_counter'

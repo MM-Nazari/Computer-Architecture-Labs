@@ -1,0 +1,1 @@
+-wto "d8f06d7c48b94d2bb8ca5e2f5617d188" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "Tb_multiplier4bit_behav" "xil_defaultlib.Tb_multiplier4bit" -log "elaborate.log" 

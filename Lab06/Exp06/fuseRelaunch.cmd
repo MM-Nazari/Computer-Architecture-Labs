@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "X:/Xilinx/Memari/Exp06/reg_gate_tb_isim_beh.exe" -prj "X:/Xilinx/Memari/Exp06/reg_gate_tb_beh.prj" "work.reg_gate_tb" 

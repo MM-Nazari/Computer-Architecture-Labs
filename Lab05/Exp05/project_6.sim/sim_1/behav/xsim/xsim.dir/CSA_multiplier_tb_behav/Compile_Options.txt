@@ -1,0 +1,1 @@
+-wto "d8f06d7c48b94d2bb8ca5e2f5617d188" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "CSA_multiplier_tb_behav" "xil_defaultlib.CSA_multiplier_tb" -log "elaborate.log" 

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "X:/Xilinx/Memari/Exp02/four_bit_comp_tb_isim_beh.exe" -prj "X:/Xilinx/Memari/Exp02/four_bit_comp_tb_beh.prj" "work.four_bit_comp_tb" 

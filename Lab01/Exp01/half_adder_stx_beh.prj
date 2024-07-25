@@ -1,0 +1,3 @@
+vhdl isim_temp "XOR_gate.vhd"
+vhdl isim_temp "AND_gate.vhd"
+vhdl isim_temp "half_adder.vhd"

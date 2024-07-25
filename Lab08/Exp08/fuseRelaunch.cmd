@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "X:/Xilinx/Memari/Exp08/Division_tb_isim_beh.exe" -prj "X:/Xilinx/Memari/Exp08/Division_tb_beh.prj" "work.Division_tb" 

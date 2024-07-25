@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "X:/Xilinx/Memari/Exp01/full_adder_TB_isim_beh.exe" -prj "X:/Xilinx/Memari/Exp01/full_adder_TB_beh.prj" "work.full_adder_TB" 

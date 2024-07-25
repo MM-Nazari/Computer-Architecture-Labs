@@ -1,0 +1,3 @@
+vhdl isim_temp "and_gate.vhd"
+vhdl isim_temp "Decoder.vhd"
+vhdl isim_temp "Decoder_tb.vhd"

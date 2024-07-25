@@ -1,0 +1,2 @@
+vhdl isim_temp "Mealy_0101_Detector.vhd"
+vhdl isim_temp "Mealy_0101_Detector_tb.vhd"

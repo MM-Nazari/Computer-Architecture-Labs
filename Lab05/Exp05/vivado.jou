@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat Apr  2 12:16:17 2022
+# Process ID: 3860
+# Current directory: C:/Users/armin/Documents/University/Vivado/project_6
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent19192 C:\Users\armin\Documents\University\Vivado\project_6\project_6.xpr
+# Log file: C:/Users/armin/Documents/University/Vivado/project_6/vivado.log
+# Journal file: C:/Users/armin/Documents/University/Vivado/project_6\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/armin/Documents/University/Vivado/project_6/project_6.xpr
+launch_simulation
+source CSA_multiplier_tb.tcl
+close_sim

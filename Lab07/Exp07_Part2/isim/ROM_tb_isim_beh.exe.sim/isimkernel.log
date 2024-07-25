@@ -1,0 +1,28 @@
+Command line:
+   ROM_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  56468
+
+Thu May 05 15:29:34 2022
+
+
+ Elaboration Time: 3.09375 sec
+
+ Current Memory Usage: 5162.42 Meg
+
+ Total Signals          : 7
+ Total Nets             : 141
+ Total Signal Drivers   : 3
+ Total Blocks           : 6
+ Total Primitive Blocks : 5
+ Total Processes        : 3
+ Total Traceable Variables  : 18
+ Total Scalar Nets and Variables : 645
+
+ Total Simulation Time: 3.125 sec
+
+ Current Memory Usage: 5162.42 Meg
+
+Thu May 05 15:30:01 2022
+

@@ -1,0 +1,28 @@
+Command line:
+   XOR_gate_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  52458
+
+Mon Mar 07 20:29:07 2022
+
+
+ Elaboration Time: 3.21875 sec
+
+ Current Memory Usage: 5162.75 Meg
+
+ Total Signals          : 3
+ Total Nets             : 3
+ Total Signal Drivers   : 1
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 1
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 363
+
+ Total Simulation Time: 3.5 sec
+
+ Current Memory Usage: 4690.89 Meg
+
+Mon Mar 07 20:47:44 2022
+

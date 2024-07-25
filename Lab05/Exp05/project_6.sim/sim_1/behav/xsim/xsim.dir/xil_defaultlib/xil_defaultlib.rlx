@@ -1,0 +1,16 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/armin/Documents/University/Vivado/project_6/project_6.sim/AND_gate.vhd,1646594274,vhdl,,,,and_gate,,,,,,,,
+C:/Users/armin/Documents/University/Vivado/project_6/project_6.sim/OR_gate.vhd,1646594284,vhdl,,,,or_gate,,,,,,,,
+C:/Users/armin/Documents/University/Vivado/project_6/project_6.sim/XOR_gate.vhd,1646594291,vhdl,,,,xor_gate,,,,,,,,
+C:/Users/armin/Documents/University/Vivado/project_6/project_6.sim/full_adder.vhd,1646595196,vhdl,,,,full_adder,,,,,,,,
+C:/Users/armin/Documents/University/Vivado/project_6/project_6.sim/half_adder.vhd,1646595282,vhdl,,,,half_adder,,,,,,,,
+C:/Users/armin/Documents/University/Vivado/project_6/project_6.srcs/sim_1/new/CAS_multiplier_tb.vhd,1648885196,vhdl,,,,csa_multiplier_tb,,,,,,,,
+C:/Users/armin/Documents/University/Vivado/project_6/project_6.srcs/sim_1/new/CSA_multiplier.vhd,1648878813,vhdl,,,,csa_multiplier,,,,,,,,
+C:/Users/armin/Documents/University/Vivado/project_6/project_6.srcs/sim_1/new/array_multiplier.vhd,1649046847,vhdl,,,,array_multiplier,,,,,,,,
+C:/Users/armin/Documents/University/Vivado/project_6/project_6.srcs/sim_1/new/array_multiplier_tb.vhd,1648826903,vhdl,,,,array_multiplier_tb,,,,,,,,
+C:/Users/armin/Documents/University/Vivado/project_6/project_6.srcs/sim_1/new/carry_lookahead_adder_4_bit.vhd,1649046775,vhdl,,,,carry_lookahead_adder_4_bit,,,,,,,,
+C:/Users/armin/Documents/University/Vivado/project_6/project_6.srcs/sim_1/new/multiplier4bit.vhd,1648873610,vhdl,,,,multiplier4bit,,,,,,,,
+C:/Users/armin/Documents/University/Vivado/project_6/project_6.srcs/sim_1/new/multiplier4bit_tb.vhd,1648822560,vhdl,,,,tb_multiplier4bit,,,,,,,,

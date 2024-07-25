@@ -1,0 +1,6 @@
+vhdl work "xor_gate.vhd"
+vhdl work "or_gate.vhd"
+vhdl work "and_gate.vhd"
+vhdl work "one_bit_comp.vhd"
+vhdl work "four_bit_comp.vhd"
+vhdl work "four_bit_comp_tb.vhd"

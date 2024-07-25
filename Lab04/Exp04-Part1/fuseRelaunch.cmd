@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "X:/Xilinx/Memari/Exp04/carry_select_adder_tb_isim_beh.exe" -prj "X:/Xilinx/Memari/Exp04/carry_select_adder_tb_beh.prj" "work.carry_select_adder_tb" 

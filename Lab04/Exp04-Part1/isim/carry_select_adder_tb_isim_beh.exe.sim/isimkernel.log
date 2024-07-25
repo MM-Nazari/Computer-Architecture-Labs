@@ -1,0 +1,28 @@
+Command line:
+   carry_select_adder_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  53784
+
+Mon Mar 21 18:03:42 2022
+
+
+ Elaboration Time: 3.0625 sec
+
+ Current Memory Usage: 5162.8 Meg
+
+ Total Signals          : 356
+ Total Nets             : 71
+ Total Signal Drivers   : 63
+ Total Blocks           : 89
+ Total Primitive Blocks : 56
+ Total Processes        : 61
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 431
+
+ Total Simulation Time: 3.09375 sec
+
+ Current Memory Usage: 5477.38 Meg
+
+Mon Mar 21 18:04:14 2022
+

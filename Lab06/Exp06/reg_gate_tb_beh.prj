@@ -1,0 +1,4 @@
+vhdl work "dff.vhd"
+vhdl work "decoder2to4.vhd"
+vhdl work "register_gate.vhd"
+vhdl work "reg_gate_tb.vhd"

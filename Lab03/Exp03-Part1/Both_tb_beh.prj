@@ -1,0 +1,5 @@
+vhdl work "or_gate.vhd"
+vhdl work "Mealy_0110_Detector.vhd"
+vhdl work "Mealy_0101_Detector.vhd"
+vhdl work "Both_0101_or_0110_Detector.vhd"
+vhdl work "Both_tb.vhd"

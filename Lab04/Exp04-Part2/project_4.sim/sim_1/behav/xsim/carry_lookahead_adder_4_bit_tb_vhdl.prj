@@ -1,0 +1,12 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../project_4.srcs/sim_1/new/AND_gate.vhd" \
+"../../../../project_4.srcs/sim_1/new/OR_gate.vhd" \
+"../../../../project_4.srcs/sim_1/new/XOR_gate.vhd" \
+"../../../../project_4.srcs/sim_1/new/carry_lookahead_adder_4_bit.vhd" \
+"../../../../project_4.srcs/sim_1/new/full_adder.vhd" \
+"../../../../project_4.srcs/sim_1/new/half_adder.vhd" \
+"../../../../project_4.srcs/sim_1/new/carry_lookahead_adder_4_bit_tb.vhd" \
+
+# Do not sort compile order
+nosort

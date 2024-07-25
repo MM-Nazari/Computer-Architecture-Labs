@@ -1,0 +1,36 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Apr  4 08:13:44 2022
+# Process ID: 21368
+# Current directory: C:/Users/armin/Documents/University/Vivado/project_4
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7988 C:\Users\armin\Documents\University\Vivado\project_4\project_4.xpr
+# Log file: C:/Users/armin/Documents/University/Vivado/project_4/vivado.log
+# Journal file: C:/Users/armin/Documents/University/Vivado/project_4\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/armin/Documents/University/Vivado/project_4/project_4.xpr
+launch_simulation
+launch_simulation
+source carry_lookahead_adder_4_bit_tb.tcl
+close_sim
+close_project
+open_project C:/Users/armin/Documents/University/Vivado/project_6/project_6.xpr
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top array_multiplier_tb [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sim_1
+launch_simulation
+launch_simulation
+launch_simulation
+source array_multiplier_tb.tcl
+close_sim
+close_project
+open_project C:/Users/armin/Documents/University/Vivado/project_4/project_4.xpr
+launch_simulation
+source carry_lookahead_adder_4_bit_tb.tcl
+close_sim
