@@ -75,4 +75,4 @@ Step-by-step instructions on how to get the development environment running:
 7. Configure inputs and observe outputs to validate the design.
 
 ## Contributors
-- [Ali Noroozbeigy](https://github.com/AESTheProgrammer)
+- [Armin Ebrahimi](https://github.com/AESTheProgrammer)
