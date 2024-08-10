@@ -9,41 +9,50 @@
 ## Project Description
 For a detailed Labs description, please refer to the [Labs Description PDF](./CA_LAB_InstructionManual_1399_v02.pdf).
 
-### Lab03: Karnaugh table
+### Lab01
+The Pre Report for this Part is provided in the [Lab01 Pre Report PDF](./Lab01/CA_Lab_PreExp1.pdf). <br />
+The Implemented Project is in [Lab01 Code](./Lab01/Exp01). <br />
+The Post Report for this part is provided in [Lab01 Post Report PDF](./Lab01/CA_Lab_PostExp01.pdf).
+
+### Lab02
+The Pre Report for this Part is provided in the [Lab02 Pre Report PDF](./Lab02/CA_Lab_PreExp2.pdf). <br />
+The Implemented Project is in [Lab02 Code](./Lab02/Exp02). <br />
+The Post Report for this part is provided in [Lab02 Post Report PDF](./Lab02/CA_Lab_PostExp02.pdf).
+
+### Lab03
 The Pre Report for this Part is provided in the [Lab03 Pre Report PDF](./Lab03/CA_Lab_PreExp3.pdf). <br />
 The Implemented Project is in [Lab03 Code](./Lab03). <br />
 The Post Report for this part is provided in:
 - [Lab03 Post Report Part01 PDF](./Lab03/CA_Lab_PostExp03_Part1.pdf).
 - [Lab03 Post Report Part02 PDF](./Lab03/CA_Lab_PostExp03_Part2.pdf).
 
+### Lab04
+The Pre Report for this Part is provided in the [Lab04 Pre Report PDF](./Lab04/CA_Lab_PreExp04.pdf). <br />
+The Implemented Project is in [Lab04 Code](./Lab04). <br />
+The Post Report for this part is provided in:
+- [Lab04 Post Report Part01 PDF](./Lab04/CA_Lab_PostExp04_Part1.pdf).
+- [Lab04 Post Report Part02 PDF](./Lab04/CA_Lab_PostExp04_Part2.pdf).
 
-### Lab04: Introduction to Verilog
-The Pre Report for this Part is provided in the [Lab04 Pre Report PDF](./Lab04/پیش%20گزارش%20آزمایش%20۴%20منطقی%20-%20۹۹۳۱۰۶۱.pdf). <br />
-The Implemented Project is in [Lab04 Project](./Lab04).
+### Lab05
+The Pre Report for this Part is provided in the [Lab05 Pre Report PDF](./Lab05/CA_Lab_PreExp05.pdf). <br />
+The Implemented Project is in [Lab05 Code](./Lab05/Exp05). <br />
+The Post Report for this part is provided in [Lab05 Post Report PDF](./Lab05/CA_Lab_PostExp05.pdf).
 
-### Lab05: Encoder, Decoder, Multiplexer
-The Pre Report for this Part is provided in the [Lab05 Pre Report PDF](./Lab05/پیش%20گزارش%20آزمایش%20۵%20منطقی%20-%20۹۹۳۱۰۶۱.pdf). <br />
-The Implemented Project is in [Lab05 Project](./Lab05).
+### Lab06
+The Pre Report for this Part is provided in the [Lab06 Pre Report PDF](./Lab06/CA_Lab_PreExp06.pdf). <br />
+The Implemented Project is in [Lab06 Code](./Lab06/Exp06). <br />
+The Post Report for this part is provided in [Lab06 Post Report PDF](./Lab06/CA_Lab_PostExp06.pdf).
 
-### Lab06: Comparator
-The Pre Report for this Part is provided in the [Lab06 Pre Report PDF](./Lab06/پیش%20گزارش%20آزمایش%20۶%20منطقی%20-%20۹۹۳۱۰۶۱.pdf). <br />
-The Implemented Project is in [Lab06 Project](./Lab06).
+### Lab07
 
-### Lab07: Full Adder, Adder-Subtractor
-The Pre Report for this Part is provided in the [Lab07 Pre Report PDF](./Lab07/پیش%20گزارش%20آزمایش%20۷%20منطقی%20-%20۹۹۳۱۰۶۱.pdf). <br />
-The Implemented Project is in [Lab07 Project](./Lab07).
 
-### Lab08:ALU
+### Lab08
 The Pre Report for this Part is provided in the [Lab08 Pre Report PDF](./Lab08/پیش%20گزارش%20آزمایش%20۸%20منطقی%20-%20۹۹۳۱۰۶۱.pdf). <br />
 The Implemented Project is in [Lab08 Project](./Lab08).
 
-### Lab09: Sequentioal logic units, Flip Flop
+### Lab09
 The Pre Report for this Part is provided in the [Lab09 Pre Report PDF](./Lab09/پیش%20گزارش%20آزمایش%20۹%20منطقی%20-%20۹۹۳۱۰۶۱.pdf). <br />
 The Implemented Project is in [Lab09 Project](./Lab09).
-
-### Lab10: FSM
-The Pre Report for this Part is provided in the [Lab10 Pre Report PDF](./Lab10/پیش%20گزارش%20آزمایش%20۱۰%20منطقی%20-%20۹۹۳۱۰۶۱.pdf). <br />
-The Implemented Project is in [Lab10 Project](./Lab10).
 
 ## IDE
 This project is developed using Xilinx ISE Design Suite.
