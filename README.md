@@ -44,15 +44,20 @@ The Implemented Project is in [Lab06 Code](./Lab06/Exp06). <br />
 The Post Report for this part is provided in [Lab06 Post Report PDF](./Lab06/CA_Lab_PostExp06.pdf).
 
 ### Lab07
-
+The Pre Report for this Part is provided in the [Lab07 Pre Report PDF](./Lab07/PreReport-LAB7.pdf). <br />
+The Implemented Project is in [Lab07 Code](./Lab07). <br />
+The Post Report for this part is provided in:
+- [Lab07 Post Report Part01 PDF](./Lab07/PostReport-Part02.pdf).
+- [Lab07 Post Report Part02 PDF](./Lab07/CA_Lab_PostExp07_Part2.pdf).
 
 ### Lab08
-The Pre Report for this Part is provided in the [Lab08 Pre Report PDF](./Lab08/پیش%20گزارش%20آزمایش%20۸%20منطقی%20-%20۹۹۳۱۰۶۱.pdf). <br />
-The Implemented Project is in [Lab08 Project](./Lab08).
+The Pre Report for this Part is provided in the [Lab08 Pre Report PDF](./Lab08/CA_Lab_PreExp08.pdf). <br />
+The Implemented Project is in [Lab08 Code](./Lab08/Exp08). <br />
+The Post Report for this part is provided in [Lab08 Post Report PDF](./Lab08/CA_Lab_PostExp08.pdf).
 
 ### Lab09
-The Pre Report for this Part is provided in the [Lab09 Pre Report PDF](./Lab09/پیش%20گزارش%20آزمایش%20۹%20منطقی%20-%20۹۹۳۱۰۶۱.pdf). <br />
-The Implemented Project is in [Lab09 Project](./Lab09).
+The Implemented Project is in [Lab09 Code](./Lab09/project_9). <br />
+The Post Report for this part is provided in [Lab09 Post Report PDF](./Lab09/CA_Lab_PostExp09.pdf).
 
 ## IDE
 This project is developed using Xilinx ISE Design Suite.
